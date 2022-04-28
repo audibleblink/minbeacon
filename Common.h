@@ -13,6 +13,7 @@
 /* Core */
 #include <windows.h>
 #include <ntstatus.h>
+#include <wincrypt.h>
 #include "Context.h"
 #include "Macros.h"
 #include "Native.h"
